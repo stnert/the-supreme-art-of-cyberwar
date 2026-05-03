@@ -230,19 +230,15 @@ Roadmap AppSecBr -> https://github.com/PedroKetzer/roadmap-appsecbr
 
 Hack Liberty -> https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources
 
-Debian Security Information -> https://www.debian.org/security/
-
 Why Privacy Matters -> https://www.privacyguides.org/en/basics/why-privacy-matters/#what-is-privacy
 
 # Studying hard for Anti-Tracking 
 
-Faraday Cage (Faraday Shield) -> https://en.wikipedia.org/wiki/Faraday_cage
+Faraday Cage (Faraday Shield) -> https://en.wikipedia.org/wiki/Faraday_cage (The Nebuchadnezzar)
 
 Keep Android Open -> https://keepandroidopen.org/
 
 Blocklist -> https://github.com/tigthor/NSA-CIA-Blocklist
-
-Blocky -> https://0xerr0r.github.io/blocky/v0.23/
 
 Technitium DNS -> https://technitium.com/dns/
 
@@ -251,8 +247,6 @@ Ub0 -> https://github.com/gorhill/uBlock
 Privacy Badger -> https://privacybadger.org/
 
 Mullvad DNS -> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
-
-Control D -> https://controld.com/
 
 AdGuard DNS -> https://adguard-dns.io/
 
