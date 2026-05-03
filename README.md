@@ -32,7 +32,7 @@ These same countries, today operating in the shadows and massive surveillance, s
 
 # The supreme art of government surveillance
 
-The CyberWar Map in a visual guide -> https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index   (when art imitates reality: The tree of life)
+The CyberWar Map in a visual guide -> https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index   (The sentinels)
 
 APTMap -> https://andreacristaldi.github.io/APTmap/
 
