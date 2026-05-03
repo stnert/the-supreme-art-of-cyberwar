@@ -48,7 +48,7 @@ How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y
 
 # Recommended Operating Systems
 
-**No Systemd** -> https://nosystemd.org  || **Choose anyone** || => Reference: https://inv.nadeko.net/watch?v=WqB8-lXflM4  
+**No Systemd** -> https://nosystemd.org  || **Choose anyone** (Red, if you've made it this far) || => Reference: https://inv.nadeko.net/watch?v=WqB8-lXflM4  
 
 
 AthenaOS -> https://athenaos.org/
