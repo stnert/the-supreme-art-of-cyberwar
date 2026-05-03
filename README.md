@@ -44,7 +44,7 @@ Search for what you need -> https://vx-underground.org/
 
 Just a fantasy -> https://boehs.org/node/everything-i-know-about-the-xz-backdoor
 
-How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y 
+How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y (Thomas A. Anderson/Neo by real life) 
 
 # Recommended Operating Systems
 
