@@ -70,9 +70,9 @@ OpenBSD -> https://www.openbsd.org/
 
 Void Linux -> https://voidlinux.org/
 
-Tails Linux -> https://tails.net/
+Slackware -> http://www.slackware.com/
 
-NixOS -> https://nixos.org/
+Tails Linux -> https://tails.net/
 
 GuixOS -> https://guix.gnu.org/
 
