@@ -44,7 +44,7 @@ Search for what you need -> https://vx-underground.org/
 
 Just a fantasy -> https://boehs.org/node/everything-i-know-about-the-xz-backdoor
 
-How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y (Thomas A. Anderson/Neo of real life) 
+How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y (Tank) 
 
 # Recommended Operating Systems
 
@@ -100,9 +100,9 @@ Tempora Project -> https://en.wikipedia.org/wiki/Tempora
 
 Echelon Project -> https://pt.wikipedia.org/wiki/Echelon
 
-XKeyscore -> https://pt.wikipedia.org/wiki/XKeyscore
+XKeyscore -> https://pt.wikipedia.org/wiki/XKeyscore (Reference => https://inv.nadeko.net/watch?v=H-0RHqDWcJE)
 
-PRISM -> https://en.wikipedia.org/wiki/PRISM
+PRISM -> https://en.wikipedia.org/wiki/PRISM (Snowden, Thomas A. Anderson/Neo of real life) 
 
 MKUltra -> https://en.wikipedia.org/wiki/MKUltra
 
