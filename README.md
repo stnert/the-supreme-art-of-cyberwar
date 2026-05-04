@@ -116,7 +116,7 @@ MUSCULAR -> https://pt.wikipedia.org/wiki/MUSCULAR_(programa_de_vigil%C3%A2ncia)
 
 FIVE EYES -> https://pt.wikipedia.org/wiki/Alian%C3%A7a_Cinco_Olhos
 
-Libreboot -> https://libreboot.org/ (The city of Zion) 
+Libreboot -> https://libreboot.org/ (The city of "Zion") 
 
 Spyware at the Hardware Level - Intel ME & AMD PSP -> https://inv.nadeko.net/watch?v=HNwWQ9zGT-8
 
@@ -234,7 +234,7 @@ Why Privacy Matters -> https://www.privacyguides.org/en/basics/why-privacy-matte
 
 # Studying hard for Anti-Tracking 
 
-Faraday Cage (Faraday Shield) -> https://en.wikipedia.org/wiki/Faraday_cage (The Nebuchadnezzar)
+Faraday Cage (Faraday Shield) -> https://en.wikipedia.org/wiki/Faraday_cage ("The Nebuchadnezzar")
 
 Keep Android Open -> https://keepandroidopen.org/
 
