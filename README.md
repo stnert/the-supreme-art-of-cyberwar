@@ -192,7 +192,8 @@ Awesome Mobile Security -> https://github.com/vaib25vicky/awesome-mobile-securit
 
 Personal Security Checklist -> https://github.com/Lissy93/personal-security-checklist
 
-Pratical Cyber Intelligence -> https://wim.nl.tab.digital/s/sSwWmfsorkMPxfB
+Real-time network diagnostics in your terminal -> https://github.com/matthart1983/netwatch
+
 
 Desktop Linux Hardening -> https://privsec.dev/posts/linux/desktop-linux-hardening/
 
