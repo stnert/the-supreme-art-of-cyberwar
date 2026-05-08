@@ -70,6 +70,8 @@ OpenBSD -> https://www.openbsd.org/
 
 Void Linux -> https://voidlinux.org/
 
+Chimera Linux -> https://chimera-linux.org/
+
 Alpine Linux -> https://www.alpinelinux.org/
 
 Tails Linux -> https://tails.net/
