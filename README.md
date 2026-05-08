@@ -59,8 +59,6 @@ Whonix -> https://www.whonix.org/
 QubesOS -> https://www.qubes-os.org/
 
 RedoxOS -> https://www.redox-os.org/
-
-Alpine Linux -> https://www.alpinelinux.org/
  
 MirageOS -> https://mirage.io/
 
@@ -72,7 +70,7 @@ OpenBSD -> https://www.openbsd.org/
 
 Void Linux -> https://voidlinux.org/
 
-Slackware -> http://www.slackware.com/
+Alpine Linux -> https://www.alpinelinux.org/
 
 Tails Linux -> https://tails.net/
 
