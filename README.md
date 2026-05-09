@@ -74,7 +74,7 @@ Chimera Linux -> https://chimera-linux.org/
 
 Alpine Linux -> https://www.alpinelinux.org/
 
-Debian -> https://www.debian.org/  (Try OpenRC—it works!) 
+Debian -> https://www.debian.org/  (Test with OpenRC)
 
 Tails Linux -> https://tails.net/
 
