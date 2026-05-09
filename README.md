@@ -74,6 +74,8 @@ Chimera Linux -> https://chimera-linux.org/
 
 Alpine Linux -> https://www.alpinelinux.org/
 
+Debian -> https://www.debian.org/  (Try OpenRC—it works!) 
+
 Tails Linux -> https://tails.net/
 
 GuixOS -> https://guix.gnu.org/
@@ -206,6 +208,8 @@ AI Arms Race: Hackers vs Cybersecurity Professional, a Battle for Digital Domina
 How To Check if Your Linux Server Has Been Hacked -> https://www.linuxinsider.com/story/how-to-check-if-your-linux-server-has-been-hacked-177287.html
 
 OpenSSF Foundation -> https://openssf.org/
+
+Debian Security Tracker -> https://security-tracker.debian.org/tracker/
 
 The Open Source Security Platform -> https://wazuh.com/blog/
 
