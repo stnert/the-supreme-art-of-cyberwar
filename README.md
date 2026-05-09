@@ -108,7 +108,8 @@ Echelon Project -> https://pt.wikipedia.org/wiki/Echelon
 
 XKeyscore -> https://pt.wikipedia.org/wiki/XKeyscore (Reference 1 => https://inv.nadeko.net/watch?v=H-0RHqDWcJE)
 
-PRISM -> https://en.wikipedia.org/wiki/PRISM (Snowden, Thomas A. Anderson/Neo of real life  (Reference 2 -> https://inv.nadeko.net/watch?v=42JkG-REhIg ) 
+PRISM -> https://en.wikipedia.org/wiki/PRISM (Snowden, Thomas A. Anderson/Neo of real life  
+(Reference 2 -> https://inv.nadeko.net/watch?v=42JkG-REhIg ) 
 
 MKUltra -> https://en.wikipedia.org/wiki/MKUltra
 
