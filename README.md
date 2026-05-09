@@ -44,7 +44,7 @@ Search for what you need -> https://vx-underground.org/
 
 Just a fantasy -> https://boehs.org/node/everything-i-know-about-the-xz-backdoor
 
-How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y (For example: Tank, the operator of the Nebuchadnezzar) 
+How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y (For example: Link, the operator of the Nebuchadnezzar) 
 
 # Recommended Operating Systems
 
