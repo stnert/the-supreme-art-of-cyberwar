@@ -66,6 +66,8 @@ KickSecure -> https://www.kicksecure.com/
 
 IPFire -> https://www.ipfire.org/
 
+FreeBSD -> https://www.freebsd.org/
+
 OpenBSD -> https://www.openbsd.org/
 
 Void Linux -> https://voidlinux.org/
