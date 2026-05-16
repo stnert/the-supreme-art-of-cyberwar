@@ -94,6 +94,8 @@ LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
 # Update your surveillance knowledge
 
+The AI that controls the global financial market -> https://en.wikipedia.org/wiki/Aladdin_(BlackRock)#cite_note-economist-2 
+
 What the Zuck! -> https://whatthezuck.net/
 
 Assange wins, but guilty of be journalism -> https://inv.nadeko.net/HEwRZSmwUAA
