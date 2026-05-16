@@ -24,7 +24,7 @@ Who is their fan base? You have the right to know.
 
 # Watch and learn
 
-Several countries, including the United States, United Kingdom, Russia, China, Israel, Iran, and North Korea, have active cyber capabilities for both offensive and defensive operations. As they continue developing their cyber capabilities, the likelihood of physical confrontation and violence resulting from a cyber operation increases. But let's be clear - cyber warfare will never escalate to the scale or protracted nature of traditional war.
+Several countries, including the **United States, United Kingdom, Russia, China, Israel, Iran, and North Korea**, have active cyber capabilities for both offensive and defensive operations. As they continue developing their cyber capabilities, the likelihood of physical confrontation and violence resulting from a cyber operation increases. But let's be clear - cyber warfare will never escalate to the scale or protracted nature of traditional war.
 
 These countries operate in the shadows while engaging in massive surveillance to spy on targets. Don't let them do it to you! It's time to take control of your online privacy and defend yourself against constant surveillance.
 
