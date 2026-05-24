@@ -159,6 +159,8 @@ Cover Your Trackers -> https://coveryourtracks.eff.org/
 
 Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
+The DARK side of VPNs -> https://inv.thepixora.com/watch?v=8MHBMdTBlok
+
 # Studying hard for Vulnerabilities and Security
 
 SecurityOps -> [https://securityops.co/](https://github.com/cristiancmoises/hackerslounge)
