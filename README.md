@@ -76,7 +76,7 @@ Chimera Linux -> https://chimera-linux.org/
 
 Alpine Linux -> https://www.alpinelinux.org/
 
-Debian -> https://www.debian.org/  (Test with OpenRC)
+Devuan GNU+Linux -> https://www.devuan.org/
 
 Tails Linux -> https://tails.net/
 
