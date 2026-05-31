@@ -275,6 +275,12 @@ Librewolf Browser -> https://librewolf.net/
 
 Ungoogled Chromium -> https://github.com/ungoogled-software/ungoogled-chromium
 
+# Anti Brain Rot 
+
+Unhook - https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid 
+Unhook (Firefox) - https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/ 
+
+
 
 # Live Threat Maps 
 
