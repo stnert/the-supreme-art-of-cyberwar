@@ -46,6 +46,8 @@ The most powerful social engineering tactic against the open-source world (and j
 
 How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y (Descendant: Link, the operator of the Nebuchadnezzar) 
 
+Your Privacy is Already Gone. Here's Why -> https://inv.nadeko.net/watch?v=9OG142U48js
+
 # Recommended Operating Systems
 
 **No Systemd** -> https://nosystemd.org  || **Choose anyone** (Red Capsule, if you've made it this far) ||
