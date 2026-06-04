@@ -98,9 +98,11 @@ LFS Linux -> https://www.linuxfromscratch.org/lfs/
 
 The AI that controls the global financial market -> https://en.wikipedia.org/wiki/Aladdin_(BlackRock)#cite_note-economist-2 
 
+How the NSA Hacks the World: The TAO Unit Exposed -> https://inv.nadeko.net/watch?v=gEDsD4REFdU
+
 What the Zuck! -> https://whatthezuck.net/
 
-Assange wins, but guilty of be journalism -> https://inv.nadeko.net/HEwRZSmwUAA
+Assange wins, but guilty of be journalism -> https://inv.nadeko.net/watch?v=gEDsD4REFdU
 
 The GAFAM poster campaign toolkit -> https://gafam.info/
 
