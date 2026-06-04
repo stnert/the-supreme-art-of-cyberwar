@@ -117,6 +117,8 @@ XKeyscore -> https://pt.wikipedia.org/wiki/XKeyscore (Reference 1 => https://inv
 PRISM -> https://en.wikipedia.org/wiki/PRISM (Snowden, Thomas A. Anderson/Neo of real life  
 (Reference 2 -> https://inv.nadeko.net/watch?v=42JkG-REhIg ) 
 
+Tailored Access Operations -> https://en.wikipedia.org/wiki/Tailored_Access_Operations
+
 MKUltra -> https://en.wikipedia.org/wiki/MKUltra
 
 Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora - https://prism-break.org/en/
