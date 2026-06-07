@@ -291,6 +291,8 @@ Unhook (Firefox) - https://addons.mozilla.org/en-US/firefox/addon/youtube-recomm
 
 # Live Threat Maps 
 
+THE WAR ROOM  - OSINT FOR EARTH - Live Global Monitoring Dashboard -> https://retrosheep.com/global-monitor
+
 ShadowServer -> https://dashboard.shadowserver.org/
 
 Spamhaus -> https://www.spamhaus.com/threat-map/
