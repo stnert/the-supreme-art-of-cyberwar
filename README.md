@@ -269,6 +269,8 @@ Mullvad DNS -> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 
 AdGuard DNS -> https://adguard-dns.io/
 
+DNSSEC Resolver Test -> https://wander.science/projects/dns/dnssec-resolver-test/
+
 Security Ops -> https://army.securityops.co/
 
 LocalCDN -> https://codeberg.org/nobody/LocalCDN
