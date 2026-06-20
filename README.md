@@ -281,7 +281,8 @@ Mullvad Browser -> https://mullvad.net/en/browser
 
 Librewolf Browser -> https://librewolf.net/
 
-Ungoogled Chromium -> https://github.com/ungoogled-software/ungoogled-chromium
+Brave Origin -> https://brave.com/origin/
+
 
 # Anti Brain Rot 
 
