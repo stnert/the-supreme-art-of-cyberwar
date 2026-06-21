@@ -119,6 +119,8 @@ PRISM -> https://en.wikipedia.org/wiki/PRISM (Snowden, Thomas A. Anderson/Neo of
 
 Tailored Access Operations -> https://en.wikipedia.org/wiki/Tailored_Access_Operations
 
+National Security Operations Center -> https://en.wikipedia.org/wiki/National_Security_Operations_Center
+
 MKUltra -> https://en.wikipedia.org/wiki/MKUltra
 
 Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora - https://prism-break.org/en/
