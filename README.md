@@ -100,6 +100,8 @@ The AI that controls the global financial market -> https://en.wikipedia.org/wik
 
 How the NSA Hacks the World: The TAO Unit Exposed -> https://inv.nadeko.net/watch?v=gEDsD4REFdU
 
+The terrifying reason the internet exists -> https://inv.nadeko.net/embed/mvsgrhS5bV8
+
 What the Zuck! -> https://whatthezuck.net/
 
 Assange wins, but guilty of be journalism -> https://inv.nadeko.net/watch?v=gEDsD4REFdU
