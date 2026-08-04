@@ -215,6 +215,8 @@ Awesome Malware Analysis -> https://github.com/rshipp/awesome-malware-analysis
 
 Awesome Mobile Security -> https://github.com/vaib25vicky/awesome-mobile-security
 
+The Art of Command Line -> https://github.com/jlevy/the-art-of-command-line
+
 Personal Security Checklist -> https://github.com/Lissy93/personal-security-checklist
 
 Real-time network diagnostics in your terminal -> https://github.com/matthart1983/netwatch
