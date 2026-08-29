@@ -223,6 +223,8 @@ Personal Security Checklist -> https://github.com/Lissy93/personal-security-chec
 
 Real-time network diagnostics in your terminal -> https://github.com/matthart1983/netwatch
 
+The Chad Mumble vs The Virgin Discord: Why You Should Leave Discord -> https://usemumble.neocities.org/ (Special thanks to @Te1eG0esbrr)
+
 Desktop Linux Hardening -> https://privsec.dev/posts/linux/desktop-linux-hardening/
 
 Tracking interesting Linux (and UNIX) malware. Send PRs - https://github.com/timb-machine/linux-malware
