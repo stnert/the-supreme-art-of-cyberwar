@@ -181,6 +181,8 @@ The DARK side of VPNs -> https://inv.nadeko.net/watch?v=8MHBMdTBlok
 
 SecurityOps -> [https://securityops.co/](https://github.com/cristiancmoises/hackerslounge)
 
+Security Reference Guide -> https://github.com/s0cm0nkey/Security-Reference-Guide
+
 Manual Operations Anonymous - https://github.com/netcattest/manual-operacoes-anonimas
 
 Roadmap about Cyber Security -> https://roadmap.sh/cyber-security  (Good for Ethical Hackers) 
