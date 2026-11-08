@@ -50,10 +50,6 @@ Your Privacy is Already Gone. Here's Why -> https://inv.nadeko.net/watch?v=9OG14
 
 # Recommended Operating Systems
 
-**No Systemd** -> https://nosystemd.org  || **Choose anyone** (Red Capsule, if you've made it this far) ||
-=> Reference: https://inv.nadeko.net/watch?v=WqB8-lXflM4  
-
-
 AthenaOS -> https://athenaos.org/
 
 Whonix -> https://www.whonix.org/
