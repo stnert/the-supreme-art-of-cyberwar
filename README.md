@@ -44,7 +44,7 @@ Search for what you need -> https://vx-underground.org/
 
 The most powerful social engineering tactic against the open-source world (and just a fantasy) -> https://boehs.org/node/everything-i-know-about-the-xz-backdoor 
 
-How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y (Descendant: Link, the operator of the Nebuchadnezzar) 
+How a Hacker Saved The Internet -> https://www.youtube.com/watch?v=F7iLfuci75Y | https://inv.nadeko.net/watch?v=F7iLfuci75Y (Descendant: Link, the operator of the Nebuchadnezzar) 
 
 Your Privacy is Already Gone. Here's Why -> https://inv.nadeko.net/watch?v=9OG142U48js
 
