@@ -82,6 +82,8 @@ GuixOS -> https://guix.gnu.org/
 
 Gentoo -> https://www.gentoo.org/
 
+Slackware -> http://www.slackware.com/
+
 Artix Linux -> https://artixlinux.org/
 
 GrapheneOS -> https://grapheneos.org/
