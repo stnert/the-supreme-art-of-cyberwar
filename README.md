@@ -351,6 +351,7 @@ Made with vibrations of Solfeggio (528 Hz) and Third Eye Awakening (963 Hz) by a
 # © 2024 Fábio T. de Souza (A.k.a SpecieUnknown)
 
  [GNU GENERAL PUBLIC LICENSE v3](https://www.gnu.org/licenses/gpl-3.0.html)
+ 
  [Creative Commons BY-SA 4.0 Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
 
 
