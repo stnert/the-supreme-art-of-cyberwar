@@ -48,7 +48,7 @@ How a Hacker Saved The Internet -> https://www.youtube.com/watch?v=F7iLfuci75Y |
 
 Your Privacy is Already Gone. Here's Why -> https://inv.nadeko.net/watch?v=9OG142U48js
 
-# Recommended Operating Systems
+# Recommended Options 
 
 Kernel -> https://kernel.org
 
