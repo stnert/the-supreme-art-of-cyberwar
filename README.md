@@ -50,6 +50,8 @@ Your Privacy is Already Gone. Here's Why -> https://inv.nadeko.net/watch?v=9OG14
 
 # Recommended Operating Systems
 
+Kernel -> https://kernel.org
+
 AthenaOS -> https://athenaos.org/
 
 Whonix -> https://www.whonix.org/
