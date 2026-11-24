@@ -346,5 +346,12 @@ Welcome to The Machine - Pink Floyd 🎵 =>  https://github.com/user-attachments
 
 Made with vibrations of Solfeggio (528 Hz) and Third Eye Awakening (963 Hz) by an eternal anarchist and Bit-twiddling 🕵️‍♂️ 🧑‍💻.| I 💜 Free Software, Kernel Linux and BSD, forever, or as long as it is secure enough in my hands (configure your security/privacy by hand). As an activist, my work is for the people. 
 
+# Copyrights
+
+# © 2024 Fábio T. de Souza (A.k.a SpecieUnknown)
+
+1) Este programa é software livre: está licenciado sob os termos da [GNU GENERAL PUBLIC LICENSE v3](https://www.gnu.org/licenses/gpl-3.0.html) ou posterior.
+2) Este e outros READMEs estão licenciado sob os termos da [Creative Commons BY-SA 4.0 Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
+
 
 <a href="https://www.buymeacoffee.com/alethiometer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
